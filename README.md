@@ -1,5 +1,7 @@
 # Rails Bootstrap Helpers
 
+## This fork is intended to upgrade this gem with Bootstrap 3 support
+
 Rails Bootstrap Helpers is a plugin for Ruby on Rails that adds view helpers for
 [Bootstrap](http://getbootstrap.com/2.3.2/). It also contains some helpers
 for [Jasny's Bootstrap extensions](http://jasny.github.io/bootstrap/index.html).
